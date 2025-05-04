@@ -1,6 +1,7 @@
 # Simple-RL-agent-in-a-maze
 
 A Q-learning agent trained to navigate a complex maze environment with dynamic penalties and visualizations. Developed with assistance from ChatGPT.
+This code was developed for a presentation for Introduction to machine learning course 'BME4462' in Ankara University.
 
 ## Description
 This project implements a Q-learning algorithm to train an agent to navigate a challenging 12x12 maze. The environment includes walls, traps, and a goal position, with the agent receiving rewards/penalties based on its actions. The solution includes animated visualizations of the agent's learning progress and a final learned policy.
